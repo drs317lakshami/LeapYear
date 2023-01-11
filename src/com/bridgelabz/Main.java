@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class Main {
+public class LeapYear {
 
 	  public static void main(String[] args) {
 
