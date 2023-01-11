@@ -11,7 +11,7 @@ public class Main {
 	    // if the year is divided by 4
 	    if (year % 4 == 0) {
 
-	      // if the year is century
+	       // if the year is century
 	      if (year % 100 == 0) {
 
 	        // if year is divided by 400
